@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica 6</string>
+    <string name="titulo_ventana">Lugares</string>
+    <string name="subtitulo_abajo">Lugar Seleccionado</string>
+</resources>
